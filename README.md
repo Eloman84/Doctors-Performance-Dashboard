@@ -2,8 +2,10 @@
 
 ![](intro_image.jpg)
 
+
 # INTRODUCTION
 A hospital owner wants to find out the performance of each of his medical Doctors working in his hospital. 
+
 
 
 # PROBLEM STATEMENT
@@ -15,10 +17,12 @@ A hospital owner wants to find out the performance of each of his medical Doctor
 •	To identify how many patients handled by each doctor 
 
 
+
 # DATA SOURCE
 I  downloaded the Excel worksheet from https://docs.google.com/spreadsheets/d/1TxMk33EvFTeK8aPXqFTjW8SbM3DLLJXv/edit?usp=drivesdk&ouid=101592581358205179688&rtpof=true&sd=true
  and then extracted into my Excel application power query for proper cleaning and transformation. 
 Please note that this dataset and report do not represent any real organization; they are simply a demonstration of my proficiency in the use of Microsoft Excel There are five different datasets namely Doctors, Patients, Payments, Ratings and Treatment. The dataset contains two days data 5th – 6th annuary 2014. 
+
 
 
 # SKILLS DEMONSTRATED
@@ -39,6 +43,7 @@ Please note that this dataset and report do not represent any real organization;
 •	Problem solving.
 
 
+
 # DATA CLEANING/ TRANSFORMATION
 
 •	I cleaned the Doctors table by removing null values changing the DoctorID (primary key) data type to text. 
@@ -56,6 +61,7 @@ Please note that this dataset and report do not represent any real organization;
 •	Removed Treatment Outcome and Diagnosis columns because they are not part of the objectives.
 
 
+
 # DATA MERGING/MODELLING
 
 •	I created a new table and merged DoctorID in both Treatment and Doctors tables respectively. 
@@ -65,6 +71,7 @@ Please note that this dataset and report do not represent any real organization;
 •	I merged PatientID in newly created table with Treatment table.
 
 •	I merged PatientID in newly created table with Ratings table.
+
 
 
 # DATA ANALYSIS AND VISUALIZATION
@@ -89,6 +96,7 @@ This was visualized using  bar chart. And it was discovered that Dr. Ibrahim Yus
 ![](image3.png)
 
 
+
 # OVERALL ANALYSIS AND VISUALIZATIONS
 
 
@@ -99,12 +107,14 @@ This was visualized using  bar chart. And it was discovered that Dr. Ibrahim Yus
 Click [here]( https://bit.ly/3UDUGVR) to explore the dashboard 
 
 
+
 # INSIGHTS/FINDINGS
 1. Dr. Ibrahim Yusuf: Despite generating the highest revenue, the low rating indicates a potential issue with patient satisfaction or quality of care. It's essential to investigate the reasons behind the low rating and address any underlying issues. This could involve improving communication with patients, enhancing bedside manner, or addressing any quality-of-care concerns.
 
 2. Dr. Nkechi Okeke: Being the highest-rated staff member, she sets a benchmark for patient satisfaction and quality of care. Her practices and approaches could be studied and potentially implemented across the hospital to improve overall patient experience and satisfaction levels.
 
 3. Dr. Adeoluwa: Along with Dr. Ibrahim Yusuf, Dr. Adeoluwa handles the highest number of patients. This could suggest that they are efficient and effective in managing their workload. However, it's important to ensure that the quality of care is not compromised due to the high patient volume. Adequate support systems, efficient scheduling, and proper time management strategies should be in place to maintain both quality and efficiency.
+
 
 
 # RECOMMENDATIONS AND CONCLUSIONS:
@@ -118,6 +128,7 @@ Click [here]( https://bit.ly/3UDUGVR) to explore the dashboard
 - Regularly monitor patient feedback and ratings for all doctors to identify trends and address any issues promptly.
   
 - Invest in ongoing training and professional development opportunities for all staff to continuously improve patient care delivery.
+
 
 ## Thank you for Reading
 
