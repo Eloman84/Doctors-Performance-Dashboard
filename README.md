@@ -4,7 +4,7 @@
 
 
 # INTRODUCTION
-A hospital owner wants to find out the performance of each of his medical Doctors working in his hospital. 
+The hospital owner seeks to evaluate the performance of each medical doctor employed at their facility. 
 
 
 
