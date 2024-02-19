@@ -97,6 +97,11 @@ This was visualized using  bar chart. And it was discovered that Dr. Ibrahim Yus
 
 
 
+# SLICER
+A slicer was includer to filter Doctors names and performance
+
+
+
 # OVERALL ANALYSIS AND VISUALIZATIONS
 
 
@@ -104,7 +109,7 @@ This was visualized using  bar chart. And it was discovered that Dr. Ibrahim Yus
 
 
 
-Click [here]( https://bit.ly/3UDUGVR) to explore the dashboard 
+Click [here](https://app.powerbi.com/groups/me/workbooks/1_42755_958910/new?experience=power-bi) to explore the dashboard 
 
 
 
