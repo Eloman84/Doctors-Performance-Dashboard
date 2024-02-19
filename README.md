@@ -105,7 +105,7 @@ A slicer was includer to filter Doctors names and performance
 # OVERALL ANALYSIS AND VISUALIZATIONS
 
 
-![](dashboard.png)
+![20240219_112252](https://github.com/Eloman84/Doctors-Performance-Dashboard/assets/157851490/901324b5-ea48-443b-8677-142a693de5bc)
 
 
 
